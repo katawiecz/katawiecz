@@ -22,11 +22,11 @@
 
 <a href="https://github.com/katawiecz/quiviva">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=katawiecz&repo=quiviva&theme=gruvbox_light&hide_border=true" />
-</a>
-<a href="https://github.com/katawiecz/interactive_cv_project">
+
+ href="https://github.com/katawiecz/interactive_cv_project">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=katawiecz&repo=temperious-manager&theme=gruvbox_light&hide_border=true" />
-</a>
-<a href="https://github.com/katawiecz/interactive_cv_project">
+
+  href="https://github.com/katawiecz/interactive_cv_project">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=katawiecz&repo=small_projects_katawiecz&theme=gruvbox_light&hide_border=true" />
 </a>
 
