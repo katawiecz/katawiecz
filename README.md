@@ -9,12 +9,11 @@
 ![Vercel](https://img.shields.io/badge/Deploy-Vercel-lightgrey)
 
 ### 📈 My GitHub Stats
-![Kasia's GitHub stats](https://github-readme-stats.vercel.app/api?username=katawiecz&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katawiecz&layout=compact&theme=radical)
+![Kasia's GitHub stats](https://github-readme-stats.vercel.app/api?username=katawiecz&show_icons=true&theme=gruvbox_light)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katawiecz&layout=compact&theme=gruvbox_light)
 
 ### 🌍 Find me around the web
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kasia%20Wieczorek-blue?logo=linkedin)](https://linkedin.com/in/katarzyna-wieczorek-personalprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Interactive%20CV-brightgreen)](https://quiviva.katawiecz.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-katawiecz-black?logo=github)](https://github.com/katawiecz)
 
 <!--
