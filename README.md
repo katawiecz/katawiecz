@@ -23,18 +23,25 @@
 <div align="center">
 
   <a href="https://github.com/katawiecz/quiviva">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=katawiecz&repo=quiviva&theme=gruvbox_light&hide_border=true" width="33%" />
-  </a>
- 
-  <a href="https://github.com/katawiecz/small_projects_katawiecz">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=katawiecz&repo=small_projects_katawiecz&theme=gruvbox_light&hide_border=true" width="33%" />
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=katawiecz&repo=quiviva&theme=gruvbox_light&hide_border=true&cache_seconds=1800&description_lines=2"
+      width="33%" />
   </a>
 
-   <a href="https://github.com/katawiecz/temperious-manager">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=katawiecz&repo=temperious-manager&theme=gruvbox_light&hide_border=true" width="33%" />
+  <a href="https://github.com/katawiecz/small_projects_katawiecz">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=katawiecz&repo=small_projects_katawiecz&theme=gruvbox_light&hide_border=true&cache_seconds=1800&description_lines=2"
+      width="33%" />
+  </a>
+
+  <a href="https://github.com/katawiecz/temperious-manager">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=katawiecz&repo=temperious-manager&theme=gruvbox_light&hide_border=true&cache_seconds=1&description_lines=2"
+      width="33%" />
   </a>
 
 </div>
+
 
 
 ---
