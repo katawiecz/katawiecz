@@ -12,64 +12,63 @@ I’m not a lifelong programmer — not yet. I’m a curious person who lights u
 ---
 
 
-### 🧰 Tech Stack
 
+### 🧰 Tech Stack
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/><br/>
+      <img src="https://cdn.simpleicons.org/javascript/000000" width="42" height="42" alt="JavaScript"/><br/>
       <sub>JavaScript</sub>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5"/><br/>
+      <img src="https://cdn.simpleicons.org/html5/000000" width="42" height="42" alt="HTML5"/><br/>
       <sub>HTML5</sub>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3"/><br/>
+      <img src="https://cdn.simpleicons.org/css3/000000" width="42" height="42" alt="CSS3"/><br/>
       <sub>CSS3</sub>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js"/><br/>
+      <img src="https://cdn.simpleicons.org/nodedotjs/000000" width="42" height="42" alt="Node.js"/><br/>
       <sub>Node.js</sub>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/openai/000000" width="48" height="48" alt="OpenAI"/><br/>
+      <img src="https://cdn.simpleicons.org/openai/000000" width="42" height="42" alt="OpenAI"/><br/>
       <sub>OpenAI</sub>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="48" height="48" alt="Vercel"/><br/>
+      <img src="https://cdn.simpleicons.org/vercel/000000" width="42" height="42" alt="Vercel"/><br/>
       <sub>Vercel</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git"/><br/>
+      <img src="https://cdn.simpleicons.org/git/000000" width="42" height="42" alt="Git"/><br/>
       <sub>Git</sub>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub"/><br/>
+      <img src="https://cdn.simpleicons.org/github/000000" width="42" height="42" alt="GitHub"/><br/>
       <sub>GitHub</sub>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code"/><br/>
+      <img src="https://cdn.simpleicons.org/visualstudiocode/000000" width="42" height="42" alt="VS Code"/><br/>
       <sub>VS Code</sub>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="48" height="48" alt="Markdown"/><br/>
-      <sub>Markdown</sub>
+      <img src="https://cdn.simpleicons.org/windows/000000" width="42" height="42" alt="Windows"/><br/>
+      <sub>Windows</sub>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="48" height="48" alt="PowerShell"/><br/>
+      <img src="https://cdn.simpleicons.org/powershell/000000" width="42" height="42" alt="PowerShell"/><br/>
       <sub>PowerShell</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/pushover/4A90E2" width="48" height="48" alt="Pushover"/><br/>
+      <img src="https://cdn.simpleicons.org/pushover/000000" width="42" height="42" alt="Pushover"/><br/>
       <sub>Pushover</sub>
     </td>
   </tr>
 </table>
+
 
 ---
 
