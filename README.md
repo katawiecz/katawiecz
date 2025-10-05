@@ -1,5 +1,20 @@
 ## Hi there 👋
 
+### About me
+
+Hi, I'm Kasia. I love trying new things — and coding is one of them.
+
+I joined GitHub recently; my first commit was on April 5, 2025. 
+I really got going three months later, in June 2025, when I started having fun with [Small Projects — katawiecz](https://github.com/katawiecz/small_projects_katawiecz). 
+And I was hooked.
+
+The gates to these unknown lands have just opened for me — and opened wide. 
+I can’t believe how much I can create! 
+I’m not a lifelong programmer; Not yet...
+I’m a curious person who lights up whenever there’s a “let’s try” in the air.
+
+
+
 ### 🧰 Tech Stack
 ![HTML5](https://img.shields.io/badge/Code-HTML5-orange)
 ![CSS3](https://img.shields.io/badge/Style-CSS3-blue)
