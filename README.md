@@ -11,7 +11,6 @@
 ### 📈 My GitHub Stats
 ![Kasia's GitHub stats](https://github-readme-stats.vercel.app/api?username=katawiecz&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katawiecz&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=katawiecz&theme=radical&border_radius=20)
 
 
 <!--
