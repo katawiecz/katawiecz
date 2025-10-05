@@ -3,10 +3,8 @@
 
 ### About me
 Hi, I'm Kasia — I love trying new things, and coding is one of them.  
-My first commit was on **April 5, 2025**; three months later I was hooked, building for fun in  
-[Small Projects — katawiecz](https://github.com/katawiecz/small_projects_katawiecz).
-
-The gates to these unknown lands have opened wide. I can’t believe how much I can create!  
+My first commit was on **April 5, 2025**; three months later I was hooked, coding and building "things" for fun.
+The gates to these unknown lands have opened wide.
 I’m not a lifelong programmer — not yet. I’m a curious person who lights up whenever there’s a “let’s try” in the air.
 
 ---
