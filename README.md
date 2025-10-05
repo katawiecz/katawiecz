@@ -2,10 +2,16 @@
 <p align="center"><em>Curiosity is my operating system.</em></p>
 
 ### About me
-Hi, I'm Kasia — I love trying new things, and coding is one of them.  
-My first commit was on **April 5, 2025**; three months later I was hooked, coding and building "things" for fun.
-The gates to these unknown lands have opened wide.
-I’m not a lifelong programmer — not yet. I’m a curious person who lights up whenever there’s a “let’s try” in the air.
+<p>
+  Hi, I'm Kasia — I love trying new things, and coding is one of them.
+</p>
+<p>
+  My first commit was on <strong>April 5, 2025</strong>. Three months later I was hooked — coding and building things for fun.
+</p>
+<p>
+  The gates to these unknown lands have opened wide. I’m not a lifelong programmer — not yet. I’m a curious person who lights up whenever there’s a “let’s try” in the air.
+</p>
+
 
 ---
 
