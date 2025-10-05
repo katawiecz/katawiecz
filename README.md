@@ -20,16 +20,20 @@
 
 ### 🚧 Featured Projects
 
+<div align="center">
 
-<a href="https://github.com/katawiecz/quiviva">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=katawiecz&repo=quiviva&theme=gruvbox_light&hide_border=true" />
-</a>
-<a href="https://github.com/katawiecz/interactive_cv_project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=katawiecz&repo=temperious-manager&theme=gruvbox_light&hide_border=true" />
-</a>
-<a href="https://github.com/katawiecz/interactive_cv_project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=katawiecz&repo=small_projects_katawiecz&theme=gruvbox_light&hide_border=true" />
-</a>
+  <a href="https://github.com/katawiecz/quiviva">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=katawiecz&repo=quiviva&theme=gruvbox_light&hide_border=true" width="30%" />
+  </a>
+  <a href="https://github.com/katawiecz/temperious-manager">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=katawiecz&repo=temperious-manager&theme=gruvbox_light&hide_border=true" width="30%" />
+  </a>
+  <a href="https://github.com/katawiecz/small_projects_katawiecz">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=katawiecz&repo=small_projects_katawiecz&theme=gruvbox_light&hide_border=true" width="30%" />
+  </a>
+
+</div>
+
 
 ---
 
