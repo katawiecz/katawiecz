@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+### 🧰 Tech Stack
+![HTML5](https://img.shields.io/badge/Code-HTML5-orange)
+![CSS3](https://img.shields.io/badge/Style-CSS3-blue)
+![JavaScript](https://img.shields.io/badge/Logic-JavaScript-yellow)
+![Node.js](https://img.shields.io/badge/Backend-Node.js-green)
+![OpenAI API](https://img.shields.io/badge/AI-OpenAI-black)
+![Vercel](https://img.shields.io/badge/Deploy-Vercel-lightgrey)
+
+
 <!--
 **katawiecz/katawiecz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
