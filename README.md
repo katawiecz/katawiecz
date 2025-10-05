@@ -13,11 +13,11 @@ I’m not a lifelong programmer — not yet. I’m a curious person who lights u
 
 ### 🚧 Featured Projects
 
-<a href="https://github.com/katawiecz/interactive_cv_project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=katawiecz&repo=interactive_cv_project&theme=tokyonight&hide_border=true" />
-</a>
 <a href="https://github.com/katawiecz/quiviva">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=katawiecz&repo=quiviva&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=katawiecz&repo=quiviva&theme=gruvbox_light&hide_border=true" />
+</a>ù
+<a href="https://github.com/katawiecz/interactive_cv_project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=katawiecz&repo=small_projects_katawiecz&theme=gruvbox_light&hide_border=true" />
 </a>
 
 ---
