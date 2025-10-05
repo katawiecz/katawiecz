@@ -11,7 +11,6 @@ I’m not a lifelong programmer — not yet. I’m a curious person who lights u
 
 ---
 
-### 🧰 Tech Stack
 
 ### 🧰 Tech Stack
 
@@ -58,10 +57,6 @@ I’m not a lifelong programmer — not yet. I’m a curious person who lights u
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="48" height="48" alt="Markdown"/><br/>
       <sub>Markdown</sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="48" height="48" alt="Windows"/><br/>
-      <sub>Windows</sub>
     </td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="48" height="48" alt="PowerShell"/><br/>
