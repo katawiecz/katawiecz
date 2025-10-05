@@ -12,9 +12,61 @@ I’m not a lifelong programmer — not yet. I’m a curious person who lights u
 ---
 
 ### 🧰 Tech Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,openai,vercel,git,github,vscode&perline=9" alt="Tech stack icons"/>
-</p>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="42" height="42" alt="JavaScript"/><br/>
+      <sub>JavaScript</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/html5/E34F26" width="42" height="42" alt="HTML5"/><br/>
+      <sub>HTML5</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/css3/1572B6" width="42" height="42" alt="CSS3"/><br/>
+      <sub>CSS3</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" width="42" height="42" alt="Node.js"/><br/>
+      <sub>Node.js</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/openai/000000" width="42" height="42" alt="OpenAI"/><br/>
+      <sub>OpenAI</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/vercel/000000" width="42" height="42" alt="Vercel"/><br/>
+      <sub>Vercel</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/git/F05032" width="42" height="42" alt="Git"/><br/>
+      <sub>Git</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/github/181717" width="42" height="42" alt="GitHub"/><br/>
+      <sub>GitHub</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="42" height="42" alt="VS Code"/><br/>
+      <sub>VS Code</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/markdown/000000" width="42" height="42" alt="Markdown"/><br/>
+      <sub>Markdown</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/windows/0078D6" width="42" height="42" alt="Windows"/><br/>
+      <sub>Windows</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/powershell/5391FE" width="42" height="42" alt="PowerShell"/><br/>
+      <sub>PowerShell</sub>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
